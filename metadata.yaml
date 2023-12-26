@@ -1,5 +1,8 @@
 _repo: One-touch-of-Terra_72173
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72173-h/images/cover.jpg
 creator:
   author:
     agent_name: Bok, Hannes
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51643
     wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72173#One-touch-of-Terra
 gutenberg_issued: '2023-11-19'
 identifiers:
   gutenberg: '72173'
